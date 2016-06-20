@@ -34,3 +34,4 @@ class PapertrailServiceProvider extends ServiceProvider
     $monolog->pushHandler($syslog);
     }
 }
+}
